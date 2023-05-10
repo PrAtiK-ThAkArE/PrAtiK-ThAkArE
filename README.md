@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Thakare</h1>
 <h3 align="center">A passionate software Engineer developer from India</h3>
+<img align="right" src="https://media.tenor.com/hxcLtSgPfbcAAAAC/visaemperor-startupvisa.gif">
 
 - 💬 Ask me about **Angular, Spring**
 
